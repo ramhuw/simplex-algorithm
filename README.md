@@ -1,2 +1,2 @@
 # simplex-algorithm
-单纯形法的Python实现
+Simplex Method With Python.
